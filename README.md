@@ -14,9 +14,6 @@
 
 - [📖 About the Project](#A-program-for-greeting-users)
   - [🛠 Built With](#built-with-HMTL-CSS)
-    - [Tech Stack](#HTML-CSS)
-    - [Key Features](#Header)
-  - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
@@ -25,117 +22,44 @@
   - [Run tests](#run-tests)
   - [Deployment](#triangular_flag_on_post-deployment)
 - [👥 Authors](#authors)
-- [🔭 Future Features](#future-features)
-- [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
-- [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Hello-Microverse] <a name="A-program-for-greeting-users"></a>
+# 📖 [Hello-Microverse] <a name="A-program-for-new-users"></a>
 
 **[Hello-Microverse]** is a program for new users.
 
 ## 🛠 Built With <a name="HTML-CSS"></a>
 
-### Tech Stack <a name="HTML-CSS"></a>
-
-<details>
-  <summary>Client</summary>
-  <ul>
-    <li><a href="https://reactjs.org/">React.js</a></li>
-  </ul>
-</details>
-
-<details>
-  <summary>Server</summary>
-  <ul>
-    <li><a href="https://expressjs.com/">Express.js</a></li>
-  </ul>
-</details>
-
-<details>
-<summary>Database</summary>
-  <ul>
-    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
-  </ul>
-</details>
-
-<!-- Features -->
-
-### Key Features <a name="key-features"></
-
-- **[Header]**
+- HTML
+- CSS
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
 
-## 💻 Getting Started <a name="getting-started"></a>
+## Getting Started
 
-To get a local copy up and running, follow these steps.
+**This is an example of how you may give instructions on setting up your project locally.**
+**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
+
+To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
-In order to run this project you need:
-
-<!--
-Example command:
-Clone the this repository into your local repo, instructions on how to do that are listed below.
-Open the index.html file with a browser, once you double click on the file it will open.
-
---->
-
 ### Setup
-
-Clone this repository to your desired folder:
-
-<!--
-Example commands:
-
-```sh
-  cd my-folder
-  git clone git@github.com:myaccount/my-project.git
-```
---->
 
 ### Install
 
-Install this project with:
-
-<!--
-Example command:
-
-```sh
-  cd my-project
-  gem install
-```
---->
-
 ### Usage
-
-To run the project, execute the following command:
-
-<!--
-Example command:
-
-```sh
-  rails server
-```
---->
 
 ### Run tests
 
-To run tests, run the following command:
+### Deployment
 
-<!--
-Example command:
-
-```sh
-  bin/rails test test/models/article_test.rb
-```
 --->
 
 <!-- AUTHORS -->
@@ -150,55 +74,19 @@ Example command:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- FUTURE FEATURES -->
-
-## 🔭 Future Features <a name="future-features"></a>
-
-> Describe 1 - 3 features you will add to the project.
-
-- [ ] **[new_feature_1]**
-- [ ] **[new_feature_2]**
-- [ ] **[new_feature_3]**
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- CONTRIBUTING -->
-
-## 🤝 Contributing <a name="contributing"></a>
-
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/Leeoasis/Hello-Microverse/issues)
+Feel free to check the [issues page](../../issues/).
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+## Show your support
 
-<!-- SUPPORT -->
+Give a ⭐️ if you like this project!
 
-## ⭐️ Show your support <a name="support"></a>
+## Acknowledgments
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- ACKNOWLEDGEMENTS -->
-
-## 🙏 Acknowledgments <a name="acknowledgements"></a>
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- FAQ (optional) -->
-
-## ❓ FAQ (OPTIONAL) <a name="faq"></a>
-
-- **[Question_1]**
-
-  - [Answer_1]
-
-- **[Question_2]**
-
-  - [Answer_2]
-
-  - **[Question_3]**
-
-  - [Answer_3]
+- Hat tip to anyone whose code was used
+- Inspiration
+- etc
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
