@@ -59,7 +59,6 @@ use linters to check the errors in your html and style
 - Twitter: [@twitterhandle](https://twitter.com/_Ntwali)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/roland-ntwali-11b16617b/)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 Contributions, issues, and feature requests are welcome!
 
