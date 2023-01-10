@@ -60,8 +60,6 @@ To get a local copy up and running follow these simple example steps.
 
 ### Deployment
 
---->
-
 <!-- AUTHORS -->
 
 ## 👥 Authors <a name="authors"></a>
