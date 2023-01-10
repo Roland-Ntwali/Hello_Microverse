@@ -55,8 +55,6 @@ use linters to check the errors in your html and style
 
 ## 👥 Authors <a name="authors"></a>
 
-👤 **Author1**
-
 - GitHub: [@githubhandle](https://github.com/Roland-Ntwali)
 - Twitter: [@twitterhandle](https://twitter.com/_Ntwali)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/roland-ntwali-11b16617b/)
