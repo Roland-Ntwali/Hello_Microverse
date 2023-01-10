@@ -1,7 +1,5 @@
 <a name="readme-top"></a>
 
-
-
 <div align="center">
  
   <br/>
@@ -38,15 +36,11 @@
 
 # 📖 [Hello-Microverse] <a name="A-program-for-greeting-users"></a>
 
-
-
 **[Hello-Microverse]** is a program for new users.
 
 ## 🛠 Built With <a name="HTML-CSS"></a>
 
 ### Tech Stack <a name="HTML-CSS"></a>
-
-
 
 <details>
   <summary>Client</summary>
@@ -75,14 +69,11 @@
 
 - **[Header]**
 
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 <!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
-
 
 To get a local copy up and running, follow these steps.
 
@@ -147,19 +138,15 @@ Example command:
 ```
 --->
 
-
 <!-- AUTHORS -->
 
 ## 👥 Authors <a name="authors"></a>
-
 
 👤 **Author1**
 
 - GitHub: [@githubhandle](https://github.com/Roland-Ntwali)
 - Twitter: [@twitterhandle](https://twitter.com/_Ntwali)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/roland-ntwali-11b16617b/)
-
-
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -189,22 +176,17 @@ Feel free to check the [issues page](https://github.com/Leeoasis/Hello-Microvers
 
 ## ⭐️ Show your support <a name="support"></a>
 
-
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- ACKNOWLEDGEMENTS -->
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FAQ (optional) -->
 
 ## ❓ FAQ (OPTIONAL) <a name="faq"></a>
-
 
 - **[Question_1]**
 
@@ -213,6 +195,10 @@ Feel free to check the [issues page](https://github.com/Leeoasis/Hello-Microvers
 - **[Question_2]**
 
   - [Answer_2]
+
+  - **[Question_3]**
+
+  - [Answer_3]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
