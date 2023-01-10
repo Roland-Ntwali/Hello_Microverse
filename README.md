@@ -34,32 +34,26 @@
 
 ## 🛠 Built With <a name="HTML-CSS"></a>
 
-- HTML
-- CSS
+## Built With
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- GETTING STARTED -->
-
-## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
+- html
+- css
 
 To get a local copy up and running follow these simple example steps.
 
-### Prerequisites
 
-### Setup
+
+### Setup 
+clone the project or download the files to your local environment.
 
 ### Install
+you have run the installation commands.
 
-### Usage
+### Usage 
+use linters to check the errors in your html and style 
 
-### Run tests
 
-### Deployment
-
+## Authors
 <!-- AUTHORS -->
 
 ## 👥 Authors <a name="authors"></a>
@@ -82,9 +76,7 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- Have a great time
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
