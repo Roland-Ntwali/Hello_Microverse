@@ -53,9 +53,6 @@ you have run the installation commands.
 use linters to check the errors in your html and style 
 
 
-## Authors
-<!-- AUTHORS -->
-
 ## 👥 Authors <a name="authors"></a>
 
 👤 **Author1**
