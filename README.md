@@ -38,8 +38,6 @@
 
 ### Key Features <a name="key-features"></a>
 
-> Describe between 1-3 key features of the application.
-
 - **[Use_HTML]**
 - **[Use_CSS]**
 - **[Use_Linters]**
