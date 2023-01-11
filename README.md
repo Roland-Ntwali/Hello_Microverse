@@ -24,7 +24,7 @@
 - [📝 License](#license)
 
 
-# 📖 [your_project_name] <a name="about-project"></a>
+# 📖 [Hello_Microverse] <a name="about-project"></a>
 
 > Hello Microverse is a program for new users.
 
