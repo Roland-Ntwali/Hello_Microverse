@@ -1,80 +1,251 @@
 <a name="readme-top"></a>
 
-<div align="center">
- 
-  <br/>
+<!--
+HOW TO USE:
+This is an example of how you may give instructions on setting up your project locally.
 
-  <h3><b>"Hello Microverse"</b></h3>
+Modify this file to match your project and remove sections that don't apply.
 
-</div>
+REQUIRED SECTIONS:
+- Table of Contents
+- About the Project
+  - Built With
+  - Live Demo
+- Getting Started
+- Authors
+- Future Features
+- Contributing
+- Show your support
+- Acknowledgements
+- License
+
+OPTIONAL SECTIONS:
+- FAQ
+
+After you're finished please remove all the comments and instructions!
+-->
+
 
 <!-- TABLE OF CONTENTS -->
 
 # 📗 Table of Contents
 
-- [📖 About the Project](#A-program-for-greeting-users)
-  - [🛠 Built With](#built-with-HMTL-CSS)
+- [📖 About the Project](#about-project)
+  - [🛠 Built With](#built-with)
+    - [Tech Stack](#tech-stack)
+    - [Key Features](#key-features)
+  - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
+  - [Prerequisites](#prerequisites)
   - [Install](#install)
   - [Usage](#usage)
+  - [Run tests](#run-tests)
+  - [Deployment](#triangular_flag_on_post-deployment)
 - [👥 Authors](#authors)
+- [🔭 Future Features](#future-features)
+- [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
+- [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Hello-Microverse] <a name="A-program-for-new-users"></a>
+# 📖 [your_project_name] <a name="about-project"></a>
 
-**[Hello-Microverse]** is a program for new users.
+> Hello Microverse is a program for new users.
 
-## 🛠 Built With <a name="HTML-CSS"></a>
+**[Hello_MIcroverse]** is a program for new users.
 
-## Built With
+## 🛠 Built With <a name="built-with"></a>
 
-- html
-- css
+ - HTML
+ - CSS
 
-To get a local copy up and running follow these simple example steps.
+<!-- Features -->
 
+### Key Features <a name="key-features"></a>
 
+> Describe between 1-3 key features of the application.
 
-### Setup 
-clone the project or download the files to your local environment.
+- **[Use_HTML]**
+- **[Use_CSS]**
+- **[Use_Linters]**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- LIVE DEMO -->
+
+## 🚀 Live Demo <a name="live-demo"></a>
+
+> Add a link to your deployed project.
+
+- [Live Demo Link](https://yourdeployedapplicationlink.com)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- GETTING STARTED -->
+
+## 💻 Getting Started <a name="getting-started"></a>
+
+> Any new developer can use my project and know about HTML and CSS.
+
+### Prerequisites
+
+In order to run this project you need: VS code
+
+<!--
+Example command:
+
+```sh
+ gem install rails
+```
+ -->
+
+### Setup
+
+Clone this repository to your desired folder: Clone the project or download the files to your local environment.
+
+<!--
+Example commands:
+
+```sh
+  cd my-folder
+  git clone git@github.com:myaccount/my-project.git
+```
+--->
 
 ### Install
-you have run the installation commands.
 
-### Usage 
-use linters to check the errors in your html and style 
+Install this project with: You have run the installation commands.
 
+<!--
+Example command:
 
-## 👥 Authors <a name="authors"></a>
+```sh
+  cd my-project
+  gem install
+```
+--->
+
+### Usage
+
+To run the project, execute the following command: Use linters to check the errors in your html and style.
+
+<!--
+Example command:
+
+```sh
+  rails server
+```
+--->
+
+### Run tests
+
+To run : Use test commands
+
+<!--
+Example command:
+
+```sh
+  bin/rails test test/models/article_test.rb
+```
+--->
+
+### Deployment
+
+You can deploy this project using: gcloud app deploy
+
+<!--
+Example:
+
+```sh
+
+```
+ -->
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- AUTHORS -->
+
+## 👥 Authors <a name="Roland"></a>
+
+> Mention all of the collaborators of this project.
+
+👤 **Author1**
 
 - GitHub: [@githubhandle](https://github.com/Roland-Ntwali)
 - Twitter: [@twitterhandle](https://twitter.com/_Ntwali)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/roland-ntwali-11b16617b/)
 
+👤 **Author2**
+
+- GitHub: [@githubhandle](https://github.com/Tafloninno)
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- FUTURE FEATURES -->
+
+## 🔭 Future Features <a name="future-features"></a>
+
+> Describe 1 - 3 features you will add to the project.
+
+- [ ] **[Images]**
+- [ ] **[Videos]**
+- [ ] **[Audios]**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- CONTRIBUTING -->
+
+## 🤝 Contributing <a name="contributing"></a>
 
 Contributions, issues, and feature requests are welcome!
 
 Feel free to check the [issues page](../../issues/).
 
-## Show your support
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-Give a ⭐️ if you like this project!
+<!-- SUPPORT -->
 
-## Acknowledgments
+## ⭐️ Show your support <a name="support"></a>
 
-- Have a great time
+> Give a ⭐️ if you like this project!
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- ACKNOWLEDGEMENTS -->
+
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+> Have a great time!
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- FAQ (optional) -->
+
+## ❓ FAQ (OPTIONAL) <a name="faq"></a>
+
+> Add at least 2 questions new developers would ask when they decide to use your project.
+
+- **[Question_1]**
+
+  - [Answer_1]
+
+- **[Question_2]**
+
+  - [Answer_2]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LICENSE -->
 
-## 📝 License <a name="License.md"></a>
+## 📝 License <a name="license"></a>
 
 This project is [MIT](./LICENSE) licensed.
+
+_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
